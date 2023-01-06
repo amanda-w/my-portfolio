@@ -6,3 +6,8 @@ img {
 body {
     text-align: center;
 }
+
+a {
+    display: inline-block;
+    margin-right: 10px;
+}
